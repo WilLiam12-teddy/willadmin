@@ -1,4 +1,4 @@
---willadmin by: WilLiam12
+--willadmin by: WilLiam12 and Nigel
 
 A mod that adds useful tools for server admins.
 
